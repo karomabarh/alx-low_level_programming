@@ -1,10 +1,11 @@
+#include <stdio.h>
 #include "main.h"
 
 /**
- * main - print Holberton, followed by new line
- * Return: 0
+ * main - Entry point.
+ * Description: write a program that prints "_putchar" followed by a new line.
+ * Return: Always 0 (Success.)
  */
-
 int main(void)
 {
 	_putchar('_');
