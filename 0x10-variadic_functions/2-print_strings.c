@@ -1,6 +1,3 @@
-table File  46 lines (31 sloc)  846 Bytes
- 
-
 #include "variadic_functions.h"
 #include <stdio.h>
 #include <stdarg.h>
